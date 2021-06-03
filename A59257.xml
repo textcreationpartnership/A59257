@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious expostulation with E.B. an eminent Quaker about his late breaking, for neer forty thousand pounds. A great part whereof was moneys of the Quakers publique-stock.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59257</idno><idno type="EEBO-CITATION">99825381</idno>
+  <idno type="VID">29763</idno>
+  <idno type="EEBO-PROQUEST">2248516693</idno>
+  
+            <idno type="STC">Wing S2615</idno>
+            <idno type="STC">ESTC R205997</idno>
+            <idno type="PROQUEST">99825381</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825381e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2134:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious expostulation with E.B. an eminent Quaker about his late breaking, for neer forty thousand pounds. A great part whereof was moneys of the Quakers publique-stock.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>in the year, 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by cataloger.</note>
+                  <note>A variant has "E.B." instead of "B.E." in the title. Cf. Wing.</note>
+                  <note>Reproductions of the originals in the British Library and the Fiends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29763:1"/>
+            <p>A Serious Expostulation With <hi>E. B.</hi> an Eminent QUAKER, About his Late BREAKING, For neer Forty thousand pounds.</p>
+            <p>A great part whereof was MONEYS OF THE QUAKERS Publique-Stock.</p>
+            <p>Printed for <hi>J. C.</hi> in the Year, 1673.</p>
+            <pb facs="tcp:29763:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:29763:3"/>
+            <pb n="3" facs="tcp:29763:3"/>
+            <head>THE QUAKERS EXCHEQUER Shut up, &amp;c.</head>
+            <p>MY Friends! is it so, that our Friend <hi>B. E.</hi> the Zealous, the Industrious, the Famous <hi>B. E.</hi> is start aside? has he mis-imployed his ta<g ref="char:EOLhyphen"/>lents, and is now marched off with his intrusted sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ckles? is the insurance of the light become a vain thing, insolent as the <hi>Amsterdam</hi> bank, and deceitful as our <hi>Qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Quondo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> publique Faith? Are we like to be fob'd off with nothing for our money, but a pitiful whining paper in print, that seems to tell us we ne'r are like to have any: That very money which we had industriously raised from all part<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="4" facs="tcp:29763:9"/> of the Nation, to support our party, and carry on our designs, to convert the Pope, and reduce the great <hi>Turk,</hi> with <hi>Prester John,</hi> and the Cham of <hi>Tar<g ref="char:EOLhyphen"/>tary</hi> to the obedience of the Light; and are all these hopeful precects we were brewing, now turned into froths? plainly I tell thee <hi>E. B.</hi> it was a very great miscar<g ref="char:EOLhyphen"/>riage, hadst thou run in debt only to the wicked, ta<g ref="char:EOLhyphen"/>ken up money of the uncircumcised in heart, Mor<g ref="char:EOLhyphen"/>gaged each of thy new built houses a douzen times, to some scoffing <hi>Is<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>maelite,</hi> that prides himself in the <hi>Babilonish</hi> Acouterments, Golden Chain and▪ Fur-Gown, all this had been justifiable; the <hi>Israelite</hi> had then only spoiled the <hi>Aegyptian,</hi> and the <hi>Beloved Seed</hi> destroyed the <hi>Amalikite;</hi> f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r we know, notwithstanding the Humane Invention of propriety, and these two firebrands of the World, <hi>meum</hi> and <hi>tuum,</hi> the good thing: of the Creator are still solely the right of the Saints; That the wicked are only Robers, Deceivers, and may justly be turned out, or stript of their usurped Riches▪ when ever we the Godly, by form or fraud can clearly dispossess them; but on the con<g ref="char:EOLhyphen"/>trary, that Satans Kingdom should be divided: that <hi>Simeon</hi> should rifle <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi▪</hi> that thou shouldest go to ruine thy own precious Piety, and contrary to the Nature of all other Beasts, prey upon thy own Kind thus: Ah! verily this is filthy, unnatural, and abo<g ref="char:EOLhyphen"/>minable, which a thousand Lights within thee can neither warrant nor excuse.</p>
+            <p>Knowest thou not right well, our Friend, that great gain is Godliness, that he in this Age is worse then an Infidel that layeth not up some thousands for his Family? that the main scope of our Profession is mo<g ref="char:EOLhyphen"/>ney-catching? that the Original of our falling out with Lawn and Ribbons, of Tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing folks▪ dealing at a Word, and other little tricks, was only the more unsuspectedly to Gull the simple and credulous of
+<pb n="5" facs="tcp:29763:4"/> their pence; and that our whole Religion is as subtil<g ref="char:EOLhyphen"/>ly, and no less designedly Adopted for getting of an estate, then that of <hi>Mahomet,</hi> for obtaining the worlds Empire; and couldest thou run counter to all these good Principles, or remain (like <hi>Gideon</hi>'s Fleece) dry) when the dew of a well<g ref="char:EOLhyphen"/>caried, and industrious deceit waters most of thy fellows, and renders them plump and flourishing? wouldest thou suffer thy self to sink (I say) decline, crack, and break, and fall into an incurable Consumption, to the great grief (because of thy great loss) of friends▪ and triumph of the wicked, whose very Children (may, she bears, devour them) now prop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainly sing through the streets of <hi>Ashkalon</hi> this Song of Derision▪</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="song">
+                        <lg>
+                           <l>All flesh is but dust,</l>
+                           <l>There is no more trust</l>
+                           <l>In a Saint, then in an old Soaker,</l>
+                           <l>For the serious man</l>
+                           <l>Will cheat if he can,</l>
+                           <l>And a <hi>Quaker</hi> turn a Broaker.</l>
+                        </lg>
+                        <lg>
+                           <l>VVhose foolish Dun comes</l>
+                           <l>Along biting his thumbs,</l>
+                           <l>And must take his yea, and nay,</l>
+                           <l>That the Light within</l>
+                           <l>Does vote it a sin,</l>
+                           <l>But the Devil a penny he'l pay.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="6" facs="tcp:29763:5"/>
+            <p>But tell us Friend, by what means comest thou thus excessively to run (as the heathenish Proverb is) <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hind the Constable,</hi> there was no General Con<g ref="char:EOLhyphen"/>tagion, nor publique fire for thee to take the ad<g ref="char:EOLhyphen"/>vantage of, nor does thy paper pretend that any extraordinary Losses by trusting were the occasion; In the name of Wonder and Riddle, how comes it then to pass: Certain it is no order of the Romish Fryers Lives more frugal in General then our friends, of whom thou (very unhappily for us) always didst pretend to walk as one: for though we love good Belly-timber as well as ever did <hi>Apicius Epicurus,</hi> or any more modern Glutton, yet we always provide it thriftily, and at the best hand.</p>
+            <p>When we have a mind to solace our Spirits with a brisk glass of the Creature, we do not run hoiting to the Taverns, and there in a frolique give a nimble-tong'd-Drawer, or his many Ring'd Mistris oportunity to cheat us Nine-pence in the Shilling, but send for the refreshing Bottles home, and tope them off in secret: A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d then as for our more private pleasures, no Men in the world can have them better cheap; we are ne'r put to the charge of Coach, Sedans, Plays▪ Masks; Masqueradings, running to the Park, Spring-Garden, Mulberry-Garden, or Exchange; we have no Rich Gowns, tempting Petticoats, Necklaces, Lockits, Points of Flanders or Venice; not so much as Gloves, fine Knots, or an extraordinary Treat, to draw our purses before one can expect a kindness, as those vain Sons of <hi>Belial,</hi> the Town-Gallants, Vassails of Satan, and Bond-slaves to Lusts, are forced to bestow on the painted Jezabels they call Mistresses, whereas if we find the flesh mutinous against the Spirit, we have no more to do, but to declare of necessity to a good na<g ref="char:EOLhyphen"/>tur'd Help-meet, who immediately out of the duty of her
+<pb n="7" facs="tcp:29763:5"/> Creation▪ upon equal terms, without any Expeative Courtship, or being brib'd half a Year with presents, Administers the Julip, and forthwith without noise or no<g ref="char:EOLhyphen"/>tice we return from that work of Generation, to the work of our calling. These things being so, and since our way does betrench, and take off these Rent-Charges of superfluous expence, whereunto others or obnoxious Friends cannot but strange how thou could'st consume those vast sums: and though like <hi>Adam</hi> thou endeavourest to lay the Guilt upon the Woman, 'tis thought that is onely because the Creature is some time since gone out of the Body, and cannot now answer for her self, wherefore give us leave plainly to tell the <hi>E. B.</hi> that we fear thy whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing Paper is onely the Fag-end of the Cheat, to colour it up the more plausibly and that thy numerous and great debts, were not unadvisedly contracted, but indirectly (as thou there says) run into with a premeditated design to Gull, Rob, and Rook such as gave thee the credit, which is the more suspitious, because thou hadst taken sanctuary in one of the Devils peper-boxes that Cage of Vnclean Birds beyond the water.</p>
+            <p>Nor does this Repentance, Judging▪ and Condemning seem any other then a Juggle, since no absolution can be expected, till restitution to ones utmost ability; where<g ref="char:EOLhyphen"/>as thy paper intimates not one word of resolution or desire thou hast to make the least satisfaction to any of thy Creditours, who poor Creatures are as much o<g ref="char:EOLhyphen"/>ver-whelmed with sorrow as thy self; fain we see thou would<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> still keep up thy rotten Repute, and hope<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this notorious prank shall pass free from censure, wheadling us with the Title of <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople of God,</hi> and of a holy, just, and true Principle.</p>
+            <q>
+               <pb n="8" facs="tcp:29763:6"/>But <hi>Good words Friend, butter no Parsnips.</hi>
+            </q>
+            <p>Restore us the Coyn, for be confident we had rather be once more possest of the money, then of as many Good, Holy, and Just Principles, as will be between the <hi>Kings<g ref="char:EOLhyphen"/>bench</hi> and <hi>Westminster.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29763:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:29763:8"/>
+            <pb n="3" facs="tcp:29763:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:29763:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:29763:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:29763:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:29763:10"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:29763:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
